@@ -50,7 +50,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunbosunxx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=tunbosunxx&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=tunbosunxx&show_icons=true&theme=vision-friendly-dark" width="400">
 
 
 
