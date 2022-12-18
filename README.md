@@ -63,8 +63,8 @@
 ### BADGES
  [![@tunbosun20's Holopin board](https://holopin.me/tunbosun20)](https://holopin.io/@tunbosun20)
  
- https://udacity-email.s3.us-west-2.amazonaws.com/Bmann_Challange_Badge1.png?bsft_aaid=8d7e276e-4a10-41b2-8868-423fe96dd6b2&bsft_eid=6f7bf8f8-7e2a-0aa2-5489-ce8bacbabd0c&utm_campaign=sch_600_2022-12-09_ndxxx_bertelsmann_challenge_acceptance_email&utm_source=blueshift&utm_medium=email&utm_content=sch_600_2022-12-09_ndxxx_bertelsmann_challenge_badge1_challenge_recipient&bsft_clkid=fb9b72f4-bb52-49f5-892f-5751d6f57f43&bsft_uid=5abfc2f4-06df-45a4-9e4e-9235ad3d16f0&bsft_mid=2d6dabdd-be0c-4753-9f25-69b1f0dc841e&bsft_txnid=9ed49665-86d3-4ec7-958e-7deefcebf03b&bsft_mime_type=html&bsft_ek=2022-12-09T14%3A37%3A17Z&bsft_lx=4&bsft_tv=24
- 
+ ![image](https://udacity-email.s3.us-west-2.amazonaws.com/Bmann_Challange_Badge1.png)
+
  ---
  <div id="badges">
   <a href="https://www.linkedin.com/in/olatunbosun-agunbiade-b711831a3/">
