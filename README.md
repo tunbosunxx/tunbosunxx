@@ -10,13 +10,13 @@
 
 ---
 
-# :man_technologist: About Me :
-## I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: Currently learning SE @ ALX.
+# :man_technologist: TRACK :
+## Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope: Data Science
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I write codes and enhance my tech skill.
+- :zap: I write codes and run analyses.
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)](borsmanty22@gmail.com)
 
@@ -25,9 +25,6 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="dart" alt="dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -63,9 +60,7 @@
 ### BADGES
  [![@tunbosun20's Holopin board](https://holopin.me/tunbosun20)](https://holopin.io/@tunbosun20)
  
- ![image](https://udacity-email.s3.us-west-2.amazonaws.com/Bmann_Challange_Badge1.png)
-
- ---
+---
  <div id="badges">
   <a href="https://www.linkedin.com/in/olatunbosun-agunbiade-b711831a3/">
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
