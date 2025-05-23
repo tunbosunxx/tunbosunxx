@@ -12,11 +12,11 @@
 
 # :man_technologist: TRACK :
 ## Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: Data Science
+- 🧑‍🔬: Data Science
 
-- :seedling: Exploring Technical Content Writing.
+- ♈: Exploring Technical Content Writing.
 
-- :zap: I write codes and run analyses.
+- 👨‍💻: I write codes and run analyses.
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)](borsmanty22@gmail.com)
 
@@ -36,7 +36,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="gh" **alt="gh" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="py" **alt="py" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="sl" **alt="sl" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sa" **alt="sa" width="40" height="40"/>
+  <i class="devicon-d3js-plain"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+          
+          
  
 </div>
 
