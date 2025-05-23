@@ -8,11 +8,9 @@
 
 # :man_technologist: TRACK :
 ## Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- 🧑‍🔬: Research
+- 🧑‍🔬:Biomedical Research
 
 - ♈: R programming
-
-- 👨‍💻: I write codes and run analyses.
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)](borsmanty22@gmail.com)
 
@@ -37,9 +35,7 @@
           
           
           
-          
-          
- 
+           
 </div>
 
 ---
@@ -54,8 +50,6 @@
 
 
 
-
-
 <img src="https://komarev.com/ghpvc/?username=tunbosunxx&style=flat-square&color=blue" alt=""/>
 
 ---
@@ -66,12 +60,6 @@
  <div id="badges">
   <a href="https://www.linkedin.com/in/olatunbosun-agunbiade-b711831a3/">
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
-  </a>
-  <a href="https://twitter.com/AGUNBIADEOLATU4">
-    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
   </a>
 </div>
 
