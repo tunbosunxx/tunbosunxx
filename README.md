@@ -1,7 +1,3 @@
-![image](https://user-images.githubusercontent.com/104427420/202902760-b17615d0-cf9d-4d08-8d97-3bced413bd02.png)
-
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="300"/>
 </div>
@@ -12,9 +8,9 @@
 
 # :man_technologist: TRACK :
 ## Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- 🧑‍🔬: Data Science
+- 🧑‍🔬: Research
 
-- ♈: Exploring Technical Content Writing.
+- ♈: R programming
 
 - 👨‍💻: I write codes and run analyses.
 
@@ -32,12 +28,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vs" **alt="vs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="gh" **alt="gh" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="py" **alt="py" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="sl" **alt="sl" width="40" height="40"/>
-  <i class="devicon-d3js-plain"></i>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" title="sl" **alt="sl" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" title="sl" **alt="sl" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" title="sl" **alt="sl" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="sl" **alt="sl" width="40" height="40"/>
+          
+          
+          
           
           
  
